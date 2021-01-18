@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<bookshelf>	
+	<book>    	
+    	<bookName>How to be good at CS5523</bookName>
+    	<bookTopic>distributed systems</bookTopic>
+    	<cost>100</cost>
+    	<stock>110</stock>
+    	<itemNumber>1</itemNumber>
+    	<orderCount>0</orderCount>	
+	</book>
+	<book>    	
+    	<bookName>RPCs and RMI in distributed systems</bookName>
+    	<bookTopic>distributed systems</bookTopic>
+    	<cost>100</cost>
+    	<stock>110</stock>
+    	<itemNumber>2</itemNumber>
+    	<orderCount>0</orderCount>	
+	</book>
+	<book>    	
+    	<bookName>Why go to the graduate school</bookName>
+    	<bookTopic>graduate school</bookTopic>
+    	<cost>100</cost>
+    	<stock>200</stock>
+    	<itemNumber>3</itemNumber>
+    	<orderCount>0</orderCount>	
+	</book>
+	<book>    	
+    	<bookName>How to survive the graduate school</bookName>
+    	<bookTopic>graduate school</bookTopic>
+    	<cost>100</cost>
+    	<stock>200</stock>
+    	<itemNumber>4</itemNumber>
+    	<orderCount>0</orderCount>	
+	</book>
+</bookshelf>
