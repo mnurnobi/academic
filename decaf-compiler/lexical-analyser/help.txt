@@ -1,0 +1,23 @@
+Source Code: lexical-analyser.py
+This is a python script, so it is not required to build it any more.
+
+Hence, I added only exec.sh file.
+
+
+Execution guideline:
+======================
+
+1) Executing following command should execute the script and take the input file from given path.
+
+ ./exec.sh <input_file>		
+
+For example, ./exec.sh ../badbool.frag 
+As there is no specific output file path given, the output will be printed on the terminal (standard output stream).
+
+
+
+2) To provide a output file to write the outputs, execute following command - 
+
+ ./exec.sh <input_file> <output_file> 
+
+For example, ./exec.sh ../badbool.frag ../badbool.out

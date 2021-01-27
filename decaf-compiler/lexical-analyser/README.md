@@ -1,0 +1,1 @@
+Lexical Analyser includes a scanner for the Decaf programming language. The scanner run through the source program, recognizing Decaf tokens in the order in which they are read, until end-of-file is reached. For each token, the scanner will record its attributes appropriately.
